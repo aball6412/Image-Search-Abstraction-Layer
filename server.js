@@ -12,7 +12,7 @@ var collection;
 var port = process.env.PORT || 3000;
 
 //Set database url for production and development
-var url = process.env.MONGOLABS_URI || "mongodb://localhost:27017/image_search_abstraction_layer";
+var url = process.env.MONGOLAB_URI || "mongodb://localhost:27017/image_search_abstraction_layer";
 
 
 
