@@ -31,3 +31,9 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# Heroku recommendations
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env

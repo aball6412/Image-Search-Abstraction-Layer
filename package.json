@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/aball6412/Image-Search-Abstraction-Layer.git"
   },
+  "engines": {
+    "node": "4.4.4"
+  },
   "author": "Aaron Thompkins",
   "license": "ISC",
   "bugs": {
