@@ -15,6 +15,8 @@ var port = process.env.PORT || 3000;
 var url = process.env.MONGOLAB_URI || "mongodb://localhost:27017/image_search_abstraction_layer";
 
 
+
+
 //Connect to MongoDB
 MongoClient.connect(url, function(err, db) {
     
