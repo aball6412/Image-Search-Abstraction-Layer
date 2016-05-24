@@ -1,0 +1,24 @@
+{
+  "name": "image-search-abstraction-layer",
+  "version": "1.0.0",
+  "description": "FCC API Basejump",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aball6412/Image-Search-Abstraction-Layer.git"
+  },
+  "author": "Aaron Thompkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aball6412/Image-Search-Abstraction-Layer/issues"
+  },
+  "homepage": "https://github.com/aball6412/Image-Search-Abstraction-Layer#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^2.1.19"
+  }
+}
