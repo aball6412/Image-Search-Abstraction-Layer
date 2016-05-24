@@ -19,6 +19,7 @@
   "homepage": "https://github.com/aball6412/Image-Search-Abstraction-Layer#readme",
   "dependencies": {
     "express": "^4.13.4",
-    "mongodb": "^2.1.19"
+    "mongodb": "^2.1.19",
+    "xmlhttprequest": "^1.8.0"
   }
 }
