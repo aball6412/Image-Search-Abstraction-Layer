@@ -58,6 +58,7 @@ app.get("/api/latest/imagesearch", function(request, response) {
         
         //Limit response to last 10 search results
         var doclimit = [];
+        
         for (var i = 0; i < 10; i++) {
             doclimit.push(documents[i]);
         }
